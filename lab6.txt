@@ -1,0 +1,7 @@
+DevOps Lab 6
+
+Name: Suraj Naikwade
+Subject: DevOps
+Objective: creating gitHub Repo and file then clone
+
+I am Suraj Naikwade learning in MET bandra.
